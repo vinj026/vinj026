@@ -1,5 +1,5 @@
 
-<h1 align="right">
+<h1 align="left">
   Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28" height="28" alt="👋" />, I'm Kevin Jonathan
 </h1>
 
